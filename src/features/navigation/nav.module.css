@@ -1,0 +1,17 @@
+.nav__list {
+    text-align: center;
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: calc(10px + 2vmin);
+}
+
+.nav__item {
+    color: black;
+    cursor: pointer;
+    margin-right: 30px;
+}
+
+.nav__item:hover {
+    color: brown;
+}
